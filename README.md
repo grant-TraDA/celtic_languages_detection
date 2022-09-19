@@ -20,6 +20,10 @@ python train_bert.py --model-name roberta-large --dataset-path ./data/1preproc.t
 
       https://wandb.ai/wsosnowski/huggingface/reports/BERT-on-cased-celtic-dataset---VmlldzoyMDg2MDcz?accessToken=6p31gbb5i1djqgolzjzodbthplsblwfrrolz19kzan2pnp2uickh30uwh81u8zuf
     
+## Autors
+1. Olha Dovbnia olgadovbnya97@gmail.com
+1. Witold Sosnowski witold.sosnowski.dokt@pw.edu.pl
+1. Anna Wróblewska Anna.Wroblewska1@pw.edu.pl
 
 
 
